@@ -1,4 +1,22 @@
 
+.numeros {
+    background-color: red;
+    color: white;
+    font-size:100px;
+    width: 600px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: right;
+    letter-spacing: 0.25em;
+
+}
+.buttons {
+    width: 600px;
+    margin: auto;
+    background-color: black;
+}
+
+
 /* 
 
     You can write your own styles here...
